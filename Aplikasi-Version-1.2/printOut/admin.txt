@@ -1,0 +1,47 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+   Detail Pembayaran 
+
+     NIM            NAMA                   KLS   KODEP  RUPIAH   ANGKATAN
+   |  1800018010  |  Avanzavan           |  C  |  1  |  30.25  |  2018  |
+   |  2000018047  |  Anang Nur Prasetya  |  A  |  2  |  6.5    |  2020  |
+   |  2100018030  |  Percobaan           |  B  |  2  |  3.2    |  2021  |
+
+
+
+   Identitas Pembayar : 
+
+   1	Nama	     : Avanzavan
+    	Nama Bank  : MANDIRI
+    	Alamat	   : Tanjung
+
+   2	Nama	     : Anang Nur Prasetya
+    	Nama Bank  : BNI
+    	Alamat	   : Mojokerto
+
+   3	Nama	     : Percobaan
+    	Nama Bank  : BankCoba
+    	Alamat	   : AlCoba
+
+
+
+
+   Struktur Array : 
+
+   DataPembayaran [10]	[2]	[3]	[1].nama			<==	Avanzavan
+   DataPembayaran [10]	[2]	[3]	[1].nama_bank	<==	MANDIRI
+   DataPembayaran [10]	[2]	[3]	[1].alamat		<==	Tanjung
+
+   DataPembayaran [47]	[0]	[5]	[2].nama			<==	Anang Nur Prasetya
+   DataPembayaran [47]	[0]	[5]	[2].nama_bank	<==	BNI
+   DataPembayaran [47]	[0]	[5]	[2].alamat		<==	Mojokerto
+
+   DataPembayaran [30]	[1]	[6]	[2].nama			<==	Percobaan
+   DataPembayaran [30]	[1]	[6]	[2].nama_bank	<==	BankCoba
+   DataPembayaran [30]	[1]	[6]	[2].alamat		<==	AlCoba
+
+
+
+ Print out by KELOMPOK 10 A 2020 

@@ -1,0 +1,22 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+
+
+   ~~~ SELAMAT PEMBAYARAN TELAH BERHASIL DI LAKUKAN ~~~
+
+     Pembayaran berhasil dilakukan dengan detail : 
+         Nama	: Avanzavan
+         nim	: 1800018010
+         kelas	: C
+         angkatan	: 2018
+         rupiah	: 30.250
+         kodep	: 1
+         nama_bank	: MANDIRI
+         alamat	: Tanjung
+
+      Terima Kasih !!!
+
+
+ Print out by KELOMPOK 10 A 2020 
