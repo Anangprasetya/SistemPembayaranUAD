@@ -1,0 +1,22 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+
+
+   ~~~ SELAMAT PEMBAYARAN TELAH BERHASIL DI LAKUKAN ~~~
+
+     Pembayaran berhasil dilakukan dengan detail : 
+         Nama	: Argacom
+         nim	: 1800018030
+         kelas	: A
+         angkatan	: 2018
+         rupiah	: 3.100
+         kodep	: 2
+         nama_bank	: Arco
+         alamat	: Alarga
+
+      Terima Kasih !!!
+
+
+ Print out by KELOMPOK 10 A 2020 
