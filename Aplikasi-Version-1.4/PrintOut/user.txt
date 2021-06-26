@@ -1,0 +1,22 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+
+
+   ~~~ SELAMAT PEMBAYARAN TELAH BERHASIL DI LAKUKAN ~~~
+
+     Pembayaran berhasil dilakukan dengan detail : 
+         Nama	: Imam Ramadhan
+         nim	: 1900019023
+         kelas	: C
+         angkatan	: 2019
+         rupiah	: 3.500
+         kodep	: 2
+         nama_bank	: Im
+         alamat	: Imm
+
+      Terima Kasih !!!
+
+
+ Print out by KELOMPOK 10 A 2020 
