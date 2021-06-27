@@ -1,0 +1,38 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+   Detail Pembayaran 
+
+     NIM            NAMA                   KLS   KODEP  RUPIAH   ANGKATAN
+   |  1900019023  |  Imam Ramadhan       |  C  |  2  |  3.5    |  2019  |
+   |  2000018047  |  Anang Nur Prasetya  |  A  |  1  |  5.439  |  2020  |
+
+
+
+   Identitas Pembayar : 
+
+   1	Nama	     : Imam Ramadhan
+    	Nama Bank  : Im
+    	Alamat	   : Imm
+
+   2	Nama	     : Anang Nur Prasetya
+    	Nama Bank  : MANDIRI
+    	Alamat	   : Mojokerto
+
+
+
+
+   Struktur Array : 
+
+   DataPembayaran [23]	[2]	[4]	[2].nama			<==	Imam Ramadhan
+   DataPembayaran [23]	[2]	[4]	[2].nama_bank	<==	Im
+   DataPembayaran [23]	[2]	[4]	[2].alamat		<==	Imm
+
+   DataPembayaran [47]	[0]	[5]	[1].nama			<==	Anang Nur Prasetya
+   DataPembayaran [47]	[0]	[5]	[1].nama_bank	<==	MANDIRI
+   DataPembayaran [47]	[0]	[5]	[1].alamat		<==	Mojokerto
+
+
+
+ Print out by KELOMPOK 10 A 2020 

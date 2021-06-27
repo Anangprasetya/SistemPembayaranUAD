@@ -1,0 +1,22 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+
+
+   ~~~ SELAMAT PEMBAYARAN TELAH BERHASIL DI LAKUKAN ~~~
+
+     Pembayaran berhasil dilakukan dengan detail : 
+         Nama	: Imam Ramadhan
+         nim	: 1900012003
+         kelas	: A
+         angkatan	: 2019
+         rupiah	: 2.345
+         kodep	: 1
+         nama_bank	: MANDIRI
+         alamat	: Wonogiri
+
+      Terima Kasih !!!
+
+
+ Print out by KELOMPOK 10 A 2020 
