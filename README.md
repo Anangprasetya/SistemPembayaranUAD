@@ -8,3 +8,4 @@ Keterangan Versi Aplikasi :
 - v1.3 -> Struktur Aplikasi mengadopsi teknik MVC yaitu membedakan antara Pengolahan Data, Desain Aplikasi, dan Alur Aplikasi. Untuk itu configurasi aplikasi jauh lebih mudah dibandingkan versi sebelumnya.
 - v1.4 -> Memperbarui Struktur Aplikasi menjadikan satu configurasi antara OS Linux dan Windows di folder Config/Config.h
 - v1.5 -> Memperbarui file config sehingga dapat mengatur kapasitas data yang ditampung oleh aplikasi
+- v1.6 -> Memperbaiki form input pencarian admin
