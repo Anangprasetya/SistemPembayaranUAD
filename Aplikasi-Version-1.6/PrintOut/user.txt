@@ -1,0 +1,22 @@
+
+
+ Print out by KELOMPOK 10 A 2020 
+
+
+
+   ~~~ SELAMAT PEMBAYARAN TELAH BERHASIL DI LAKUKAN ~~~
+
+     Pembayaran berhasil dilakukan dengan detail : 
+         Nama	: ANANG NUR PRASETYA
+         nim	: 2000018047
+         kelas	: A
+         angkatan	: 2020
+         rupiah	: 6.500
+         kodep	: 1
+         nama_bank	: BNI
+         alamat	: MOJOKERTO
+
+      Terima Kasih !!!
+
+
+ Print out by KELOMPOK 10 A 2020 
